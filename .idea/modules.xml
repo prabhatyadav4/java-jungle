@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture Code/02 Java Basics/02 Java Basics.iml" filepath="$PROJECT_DIR$/Lecture Code/02 Java Basics/02 Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture Code/03 Data Types Variables and Input/03 Data Types Variables and Input.iml" filepath="$PROJECT_DIR$/Lecture Code/03 Data Types Variables and Input/03 Data Types Variables and Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture Code/04 Operators If-else Number System/04 Operators If-else Number System.iml" filepath="$PROJECT_DIR$/Lecture Code/04 Operators If-else Number System/04 Operators If-else Number System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA.iml" filepath="$PROJECT_DIR$/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture Code/Lecture Code.iml" filepath="$PROJECT_DIR$/Lecture Code/Lecture Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Challenge/Programming Challenge.iml" filepath="$PROJECT_DIR$/Programming Challenge/Programming Challenge.iml" />
+    </modules>
+  </component>
+</project>
